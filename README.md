@@ -1,12 +1,9 @@
 # Data-Scientist-Portfolio
 
 ## Education
-### A-Levels:
-    - Economics (B)
-    - Maths (C)
-    - Physics (C)
-### Apprenticeship:
-    - Level 4 Data Analyst (HNC)
+### Apprenticeships:
+    - Level 4 Data Analyst (HNC) (Completed: March 2025)
+    - Level 6 Data Scientist (TBC: November 2027)
 
 ## Work Experience
 ### 12/09/2023 - Current 
